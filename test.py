@@ -4,3 +4,5 @@ def second_func(c,d):
     return c-d
 def fifth_function(r,p):
     return r*p
+def sub_tract(x,y):
+    return x*y
