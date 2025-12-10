@@ -6,3 +6,5 @@ def fifth_function(r,p):
     return r*p
 def sub_tract(x,y):
     return x*y
+def six_fun(f,g):
+    return f%g
